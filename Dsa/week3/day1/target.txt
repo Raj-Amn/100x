@@ -1,0 +1,5 @@
+dsa => 3 hours
+web dev => 3 hours
+
+# warning => don't have to inverst single time to modify the config of the neovim
+# challenge => for this week
